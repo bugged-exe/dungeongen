@@ -12,4 +12,4 @@ There will be a Grid class with a width and a height, and a way of getting
 and setting tiles.
 
 ### Coordinates
-To get a specific tile will be a 2 vars passed into the get function, (row, col)
+To get a specific tile will be a 2 vars passed into the get function, (x, y)
